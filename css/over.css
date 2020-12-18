@@ -1,0 +1,19 @@
+.over{
+    background-color: rgb(10, 236, 236);width: 150px;height: 150px;margin-top: 20px;
+    margin-left: 400px;
+}
+.over:hover{
+    background-color: rgb(9, 83, 102);
+}
+.over1{
+    background-color: chartreuse;width: 150px;height: 150px;margin-left: 300px;margin-top: -50px;
+}
+.over1:hover{
+    background-color: blue;
+}
+.over2{
+    background-color: crimson;width: 150px;height: 150px;margin-left: 200px;margin-top: -50px;
+}
+.over2:hover{
+    background-color: darkgreen;
+}

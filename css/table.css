@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+
+}
+.bg_tabl{
+    background-color: blue;
+}
+.tab_bg{
+    background-color: rgb(83, 88, 78);
+    
+}
+.tab_bg:hover:nth-child(even){
+    background-color: chartreuse;
+    
+}
+.tbl_row{
+    background-color: blue;
+}
+.tab_row:hover:nth-child("odd"){
+    background-color: chartreuse;
+}

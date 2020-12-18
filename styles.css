@@ -1,0 +1,26 @@
+
+        div{
+            background-color: blueviolet;
+            width: 100%;
+            height: 200px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            
+        }
+        p{
+            font-size: larger;
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: crimson;
+        }
+        table{
+            background-color: rgb(20, 211, 77);
+        }
+        .demo{
+            background-color: darkcyan;
+            width:  50%;
+            height: 100px;
+        } 
+        #id1{
+            color: aqua;
+        } 
+         
